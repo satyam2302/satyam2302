@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi there <img src="https://user-images.githubusercontent.com/86426325/124003871-08a24800-d9f5-11eb-80bd-78fc0287f2fd.gif" width="35"></h1>
 <h1>I'm Satyam Malhotra. I'm a Full Stack Web Developer. Welcome to my GitHub page!</h1>
 
 <b>Known Language's </b>
